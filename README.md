@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=baharibastian&color=green
+![](https://komarev.com/ghpvc/?username=baharibastian&color=green)
 
 ### Hi there, I'm Bastian! 👋
 
